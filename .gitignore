@@ -1,0 +1,17 @@
+# build output
+/bin/
+/dist/
+*.test
+*.out
+/coverage.out
+/coverage.html
+# local databases
+*.db
+*.db-shm
+*.db-wal
+# env
+.env
+# editors / OS
+.DS_Store
+.idea/
+.vscode/
